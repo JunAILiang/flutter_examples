@@ -3,6 +3,12 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/flutter_path_provider_example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_path_provider_example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_path_provider_example/ios/.symlinks/plugins/path_provider/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_path_provider_example/ios/.symlinks/plugins/path_provider/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_path_provider_example/ios/.symlinks/plugins/path_provider/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_path_provider_example/ios/.symlinks/plugins/path_provider/example/build" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_provider_example/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_provider_example/build" />
     </content>

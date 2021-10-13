@@ -154,21 +154,21 @@ class MyApp extends StatelessWidget {
     //   ),
     // );
 
-    return ChangeNotifierProvider(
-      create: (_) => CountNotifier2(),
-      child: MaterialApp(
-        debugShowCheckedModeBanner: false,
-        home: InheritedContextExample(),
-      ),
-    );
-
     // return ChangeNotifierProvider(
-    //   create: (_) => JokeViewModel(),
+    //   create: (_) => CountNotifier2(),
     //   child: MaterialApp(
     //     debugShowCheckedModeBanner: false,
-    //     home: ProviderMvvmExample(),
+    //     home: InheritedContextExample(),
     //   ),
     // );
+
+    return ChangeNotifierProvider(
+      create: (_) => JokeViewModel(),
+      child: MaterialApp(
+        debugShowCheckedModeBanner: false,
+        home: ProviderMvvmExample(),
+      ),
+    );
 
 
   }

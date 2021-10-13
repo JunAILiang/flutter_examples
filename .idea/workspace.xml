@@ -1,7 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1bcf10f-f441-4ff4-addc-0c68b85b73ab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1z7xtqswwOK0rYX8DB0h14obNm0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1bcf10f-f441-4ff4-addc-0c68b85b73ab" name="Default Changelist" comment="" />
+      <created>1633513145143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633513145143</updated>
+    </task>
+    <task id="LOCAL-00001" summary="flutter_provider_example">
+      <created>1633513188443</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633513188443</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="flutter_provider_example" />
+    <option name="LAST_COMMIT_MESSAGE" value="flutter_provider_example" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="270" y="76" key="CommitChangelistDialog2" timestamp="1633513187957">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state x="270" y="76" key="CommitChangelistDialog2/0.23.1680.949@0.23.1680.949" timestamp="1633513187957" />
+    <state x="317" y="235" key="Vcs.Push.Dialog.v2" timestamp="1633513190650">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state x="317" y="235" key="Vcs.Push.Dialog.v2/0.23.1680.949@0.23.1680.949" timestamp="1633513190650" />
   </component>
 </project>
